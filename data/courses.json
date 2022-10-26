@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "instructor": "Rahim Mahmud",
+      "course": "Web Design & Development",
+      "description": "Web designing encompasses many different skills and disciplines in the production and maintenance of websites. The different areas of web design include web graphic design; interface design; authoring, including standardized code and proprietary software; user experience design; and search engine optimization.Our Industry oriented Web Designing training covers, how to write syntactically correct HTML5 and CSS3, and how to create interactive web experiences using JavaScript.",
+      "img": "https://i.imgur.com/MqPou21.jpeg",
+      "fee": 55,
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "instructor": "Emon Khan",
+      "course": "Machine Learning",
+      "description": "Artificial intelligence and machine learning are among the most significant technological developments in recent history. Few fields promise to “disrupt” (to borrow a favored term) life as we know it quite like machine learning, but many of the applications of machine learning technology go unseen.Want to see some real examples of machine learning in action? Here are 10 companies that are using the power of machine learning in new and exciting ways (plus a glimpse into the future of machine learning).",
+      "img": "https://i.imgur.com/WtVSIZf.png",
+      "fee": 80,
+      "rating": 4.8
+    },
+    {
+      "id": 3,
+      "instructor": "Rakibul Islam",
+      "course": "Data Science With Python",
+      "description": "Companies are looking for Data Scientists who can manage data, get results, and drive decision-making. Analytics is all about using data to answer questions, and this Career Path will teach you just that. You'll learn how to analyze data, build dashboards, and deliver impactful reports. Along the way, you'll build portfolio-worthy projects that will help you get job-ready.",
+      "img": "https://i.imgur.com/RsiQfGP.jpg",
+      "fee": 95,
+      "rating": 4.9
+    },
+    {
+      "id": 4,
+      "instructor": "Abdul Hamid",
+      "course": "Artificial Intelligence ",
+      "description": "Artificial intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. The term may also be applied to any machine that exhibits traits associated with a human mind such as learning and problem-solving.",
+      "img": "https://i.imgur.com/1mHkN7P.jpg",
+      "fee": 70,
+      "rating": 4.5
+    },
+    {
+      "id": 5,
+      "instructor": "Enamul Haque",
+      "course": "Web App Development",
+      "description": "A web application, also known as a web app, is nothing but a computer program that uses a web browser to perform a specific function. A web application is a client-server program that comprises a client-side and a server-side. The user enters data through the client-side (front-end), while the server-side (back-end) of the application stores and processes the information. For example, shopping carts, content management systems, and online forms are typical web applications.",
+      "img": "https://i.imgur.com/GjZDOu8.jpg",
+      "fee": 70,
+      "rating": 4.5
+    },
+    {
+      "id": 6,
+      "instructor": "Mr. Giyal Uddin",
+      "course": "Ethical Hacking",
+      "description": "Ethical hacking tutorial covers all the aspects associated with hacking. Firstly, we will learn how to install the needed software. After this, we will learn the 4 type of penetration testing section which is network hacking, gaining access, post exploitation, website hacking.",
+      "img": "https://i.imgur.com/B9ccacd.jpg",
+      "fee": 85,
+      "rating": 4.6
+    }
+  ]
